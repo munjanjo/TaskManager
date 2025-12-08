@@ -1,0 +1,13 @@
+# Node (frontend)
+node_modules/
+dist/
+
+# Java / Spring Boot (backend)
+target/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
